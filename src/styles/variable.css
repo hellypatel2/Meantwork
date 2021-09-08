@@ -1,0 +1,10 @@
+:root {
+  --body-background-color:#1d5b9c;
+  --white:#fff;
+  --login-box-background-color:var(--white);
+  --heading-title-text-color:#131313;
+  --gray-text-color:#757575;
+  --input-focus-border-color:#1d5b9c;
+  --btn-background-color:#1d5b9c;
+}
+/*# sourceMappingURL=variable.css.map */

@@ -1,0 +1,9 @@
+.profile-box-height {
+    min-height: 260px;
+}
+.about-banner {
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 10%);
+}
+.white-banner {
+    background-color: #ffffff;
+}

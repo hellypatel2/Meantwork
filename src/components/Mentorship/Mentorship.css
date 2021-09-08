@@ -1,0 +1,117 @@
+.about-banner {
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 10%);
+}
+
+.white-banner {
+    background-color: #fff;
+}
+
+.font-size-16, .modal-body p {
+    font-size: 16px;
+}
+
+.tracking-normal {
+    letter-spacing: 0;
+}
+
+.font-medium {
+    font-weight: 500;
+}
+
+.font-size-12 {
+    font-size: 12px;
+    line-height: 20px;
+}
+.child-text-color, .thum-icon .fa-thumbs-up:before {
+    color: #ababab;
+}
+.font-size-14, .pagination-round .fa-chevron-left:before, .pagination-round .fa-chevron-right:before {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.font-size-14, .pagination-round .fa-chevron-left:before, .pagination-round .fa-chevron-right:before {
+    line-height: 20px;
+}
+.tracking-normal {
+    letter-spacing: 0;
+}
+.mt-2 {
+    margin-top: .5rem;
+}
+.font-normal {
+    font-weight: 400;
+}
+.child-text-color, .thum-icon .fa-thumbs-up:before {
+    color: #ababab;
+}
+.font-size-12 {
+    font-size: 12px;
+    line-height: 20px;
+}
+.font-size-12 {
+    line-height: 18px;
+}
+.tracking-normal {
+    letter-spacing: 0;
+}
+.mt-2 {
+    margin-top: .5rem;
+}
+.font-normal {
+    font-weight: 400;
+}
+.mt-2, .my-2 {
+    margin-top: .5rem!important;
+}
+.mt-2, .my-2 {
+    margin-top: .5rem!important;
+}
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+}
+.sign-btn-padding {
+    padding: 8px 30px;
+}
+.w-auto {
+    width: auto;
+}
+.tracking-normal {
+    letter-spacing: 0;
+}
+.text-white {
+    --tw-text-opacity: 1;
+    color: rgba(255,255,255,var(--tw-text-opacity));
+}
+.text-center {
+    text-align: center;
+}
+.outline-none {
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+}
+.font-normal {
+    font-weight: 400;
+}
+.items-center {
+    align-items: center;
+}
+.flex {
+    display: flex;
+}
+.rounded-full {
+    border-radius: 9999px;
+}
+.blue-gradient {
+    background: #74b6ff;
+    background: linear-gradient(
+45deg
+,#74b6ff,#007aff);
+}
+.text-white {
+    color: #fff!important;
+}

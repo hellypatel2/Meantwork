@@ -1,0 +1,33 @@
+.summary-logo img {
+    height: 131px;
+    width: 131px;
+    border-radius: 50%;
+    margin: auto !important;
+}
+
+.white-banner {
+    background-color: #ffffff;
+}
+
+.about-banner {
+    -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+.about-banner {
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 10%);
+}
+
+.white-banner {
+    background-color: #fff;
+}
+.font-size-20 {
+    font-size: 20px;
+    line-height: 28px;
+}
+.tracking-normal {
+    letter-spacing: 0;
+}
+.font-medium {
+    font-weight: 500;
+}
